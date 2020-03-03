@@ -1,0 +1,37 @@
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\obj\Debug\Repository.dll
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\obj\Debug\Repository.pdb
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\bin\Debug\curr.json
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\bin\Debug\curr.json
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\bin\Debug\Repository.dll
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\bin\Debug\Repository.pdb
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\obj\Debug\Repository.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\obj\Debug\Repository.dll
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\Repository\obj\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\bin\Debug\curr.json
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\obj\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\Repository\obj\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\bin\Debug\curr.json
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\obj\Debug\Repository.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\obj\Debug\Repository.csproj.CopyComplete
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\obj\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\Repository\obj\Debug\Repository.pdb

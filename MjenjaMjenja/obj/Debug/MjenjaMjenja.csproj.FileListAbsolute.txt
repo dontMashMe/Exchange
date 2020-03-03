@@ -1,0 +1,101 @@
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Form1.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Properties.Resources.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.GenerateResource.cache
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.CopyComplete
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\curr.json
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormEdit.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\table.png
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\graph.png
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormTable.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormGraph.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormRedisgn.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FirstControl.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.ExchangeControl.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.GraphControl.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.TableControl.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.CRUDcontrol.resources
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\delete.png
+C:\Users\Turd nibbler\source\repos\MjenjaMjenja\MjenjaMjenja\bin\Debug\edit2.png
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\curr.json
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\delete.png
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\edit2.png
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\graph.png
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\table.png
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.exe
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.pdb
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.dll
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.pdb
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csprojAssemblyReference.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.CRUDcontrol.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.ExchangeControl.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Form1.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormEdit.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormGraph.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormRedisgn.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormTable.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.GraphControl.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Properties.Resources.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.TableControl.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FirstControl.resources
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.GenerateResource.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.CoreCompileInputs.cache
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.CopyComplete
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.exe
+C:\Users\student\Documents\Marijan Bebek\.NET\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\curr.json
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\delete.png
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\edit2.png
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.CRUDcontrol.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.ExchangeControl.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormEdit.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormRedisgn.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.GraphControl.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Properties.Resources.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.TableControl.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FirstControl.resources
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.GenerateResource.cache
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.CopyComplete
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\Desktop\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormAdd.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\curr.json
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\delete.png
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\edit2.png
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\MjenjaMjenja.pdb
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.dll
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\Repository.pdb
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csprojAssemblyReference.cache
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.CRUDcontrol.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.ExchangeControl.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormAdd.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormEdit.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FormRedisgn.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.GraphControl.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.Properties.Resources.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.TableControl.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.FirstControl.resources
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.GenerateResource.cache
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.csproj.CopyComplete
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.exe
+C:\Users\Turd nibbler\Desktop\ksFa\Projekti programiranje 3. semestar\MjenjaMjenja\MjenjaMjenja\obj\Debug\MjenjaMjenja.pdb
